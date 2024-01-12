@@ -1,0 +1,120 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+}
+
+.form-content {
+    text-align: center;
+    padding: 1rem;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-label {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.form-input {
+    display: flex;
+    text-align: center;
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.form-input-error {
+    color: red;
+}
+
+.form-submit-button {
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    background-color: #3490dc;
+    color: #fff;
+    border-radius: 4px;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.form-submit-button:hover {
+    background-color: #276799;
+}
+
+
+.linkContainer {
+    display: flex;
+}
+
+.link {
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    margin-right: 10px;
+    /* Adjust the margin to control the space between the links */
+    background-color: #3490dc;
+    color: #fff;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.link:last-child {
+    margin-right: 0;
+}
+
+.link:hover {
+    background-color: #276799;
+}
+
+.page-content {
+    max-width: 1200px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.school-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+    gap: 20px;
+}
+
+.school-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: box-shadow 0.3s ease;
+}
+
+.school-card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.school-info {
+    text-align: center;
+    padding: 10px;
+}
