@@ -1,3 +1,12 @@
+<img width="598" alt="Screenshot 2024-01-12 170144" src="https://github.com/Ranasingh123/next-js-project-school-app/assets/96529295/ee6c955c-879f-4676-ae1b-be8fe1194ac8">
+<img width="667" alt="Screenshot 2024-01-12 170126" src="https://github.com/Ranasingh123/next-js-project-school-app/assets/96529295/9efa4f20-b973-4eb1-a40c-6402c03ae839">
+<img width="752" alt="Screenshot 2024-01-12 170047" src="https://github.com/Ranasingh123/next-js-project-school-app/assets/96529295/ad9c9bf7-d0dc-4571-817f-f94d0d07a625">
+<img width="1260" alt="Screenshot 2024-01-12 165949" src="https://github.com/Ranasingh123/next-js-project-school-app/assets/96529295/21d10a9b-a12e-4365-83c2-e8e5d2066c9c">
+<img width="1280" alt="Screenshot 2024-01-12 165925" src="https://github.com/Ranasingh123/next-js-project-school-app/assets/96529295/06250968-57f4-4573-8aa6-3fb992c09f49">
+<img width="1273" alt="Screenshot 2024-01-12 165811" src="https://github.com/Ranasingh123/next-js-project-school-app/assets/96529295/c91816ce-e0e4-4c28-b5c4-6aa8eb128388">
+
+set DB_URL to env before running the application
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
